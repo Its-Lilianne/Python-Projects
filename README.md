@@ -1,4 +1,10 @@
 # CAR INVENTORY ANALYSIS PROJECT
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Results](#results)
+- [Recommendation](#recommendation)
+
 ### Project Overview 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, colour, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
 
@@ -105,10 +111,3 @@ While the analysis provided key insights into car pricing and brand performance,
 ### References
 
 [Car Dataset](https://docs.google.com/spreadsheets/d/148gzCAxQno4wlIj_tzgUIyDTG8y4ifRr/edit?usp=sharing&ouid=107969485968939728677&rtpof=true&sd=true)
-
-
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Results](#results)
-- [Recommendation](#recommendation)
