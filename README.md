@@ -23,6 +23,8 @@ The Car Inventory Analysis project is designed to explore and analyse key insigh
 
 
 
+
+
 # CAR INVENTORY ANALYSIS PROJECT
 ### Project Overview 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, colour, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
@@ -52,7 +54,8 @@ Code Used
 
 Import Library and Dataset
 
-<pre> import pandas as pd
+<pre> 
+#import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
