@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Results](#results)
 - [Recommendation](#recommendation)
-- [Limitations](#limitation)
+- [Limitations](#limitations)
 - [References](#references)
 
 ### Project Overview 
