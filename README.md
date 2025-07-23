@@ -4,6 +4,7 @@
 - [Project Overview](#project-overview)
 - [Results](#results)
 - [Recommendation](#recommendation)
+- [References](#references)
 
 ### Project Overview 
 This Data Analysis Project aims to provide insight from a dataset containing details about various cars, including their make, model, colour, mileage, price, and cost. The project aims to uncover trends, relationships, and key patterns within the dataset.
